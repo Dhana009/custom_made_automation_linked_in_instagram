@@ -1,0 +1,755 @@
+2023-06-12 16:53:40,526 - INFO - entering the login in function -root
+2023-06-12 16:53:45,299 - INFO - entering the website url : -root
+2023-06-12 16:53:46,242 - INFO - entered the login page in linkedin -root
+2023-06-12 16:53:51,112 - INFO - entering the email field : -root
+2023-06-12 16:53:53,945 - INFO - entering the password field : -root
+2023-06-12 16:53:56,588 - INFO - submitting the keys : -root
+2023-06-12 16:54:06,932 - INFO - submited the keys to the page: -root
+2023-06-12 16:54:09,366 - INFO - post box checking one : -root
+2023-06-12 16:54:09,412 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 16:54:09,415 - INFO - post box checking two : -root
+2023-06-12 16:54:09,580 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 16:54:12,014 - INFO - entering the typing_text function : -root
+2023-06-12 16:54:12,017 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 16:54:12,090 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 16:54:12,093 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 16:54:12,233 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 16:54:18,245 - INFO - entering the image_upload function : -root
+2023-06-12 16:54:18,247 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 16:54:20,722 - ERROR - error in the image_upload function  -root
+2023-06-12 16:55:19,908 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 16:55:19,910 - INFO - entering the done_buttons function : -root
+2023-06-12 16:55:19,913 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 16:55:19,948 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 16:55:19,949 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 16:55:22,834 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 16:55:22,836 - INFO - entering the post_buttons function : -root
+2023-06-12 16:55:25,336 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 16:55:25,339 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 16:55:30,446 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 16:59:45,736 - INFO - entering the login in function -root
+2023-06-12 16:59:47,080 - INFO - entering the website url : -root
+2023-06-12 16:59:48,948 - INFO - entered the login page in linkedin -root
+2023-06-12 16:59:54,550 - INFO - entering the email field : -root
+2023-06-12 16:59:57,469 - INFO - entering the password field : -root
+2023-06-12 17:00:00,392 - INFO - submitting the keys : -root
+2023-06-12 17:00:17,256 - INFO - submited the keys to the page: -root
+2023-06-12 17:00:20,058 - INFO - post box checking one : -root
+2023-06-12 17:00:20,088 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 17:00:20,091 - INFO - post box checking two : -root
+2023-06-12 17:00:20,294 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 17:00:23,096 - INFO - entering the typing_text function : -root
+2023-06-12 17:00:23,098 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 17:00:23,131 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 17:00:23,133 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 17:00:23,237 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 17:00:29,250 - INFO - entering the image_upload function : -root
+2023-06-12 17:00:29,252 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 17:00:32,086 - ERROR - error in the image_upload function  -root
+2023-06-12 17:01:40,932 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 17:01:40,934 - INFO - entering the done_buttons function : -root
+2023-06-12 17:01:40,936 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 17:01:40,975 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 17:01:40,977 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 17:01:44,255 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 17:01:44,256 - INFO - entering the post_buttons function : -root
+2023-06-12 17:01:47,081 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 17:01:47,082 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 17:01:52,988 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 18:32:49,490 - INFO - entering the login in function -root
+2023-06-12 18:32:50,846 - INFO - entering the website url : -root
+2023-06-12 18:32:51,532 - INFO - entered the login page in linkedin -root
+2023-06-12 18:32:55,769 - INFO - entering the email field : -root
+2023-06-12 18:32:57,981 - INFO - entering the password field : -root
+2023-06-12 18:33:00,175 - INFO - submitting the keys : -root
+2023-06-12 18:33:07,528 - INFO - submited the keys to the page: -root
+2023-06-12 18:33:09,645 - INFO - post box checking one : -root
+2023-06-12 18:33:09,659 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:33:09,660 - INFO - post box checking two : -root
+2023-06-12 18:33:09,856 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 18:33:11,978 - INFO - entering the typing_text function : -root
+2023-06-12 18:33:11,979 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 18:33:11,997 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 18:33:11,997 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 18:33:12,029 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 18:33:18,038 - INFO - entering the image_upload function : -root
+2023-06-12 18:33:18,039 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 18:33:20,165 - ERROR - error in the image_upload function  -root
+2023-06-12 18:34:00,113 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 18:34:00,114 - INFO - entering the done_buttons function : -root
+2023-06-12 18:34:00,115 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 18:34:00,130 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 18:34:00,131 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 18:34:02,431 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 18:34:02,432 - INFO - entering the post_buttons function : -root
+2023-06-12 18:34:04,570 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 18:34:04,571 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:34:08,901 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 18:34:59,720 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 18:35:01,557 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 18:35:07,240 - INFO - entering the login in function -root
+2023-06-12 18:35:08,285 - INFO - entering the website url : -root
+2023-06-12 18:35:08,923 - INFO - entered the login page in linkedin -root
+2023-06-12 18:35:18,052 - INFO - entering the email field : -root
+2023-06-12 18:35:22,695 - INFO - entering the password field : -root
+2023-06-12 18:35:27,319 - INFO - submitting the keys : -root
+2023-06-12 18:35:39,346 - INFO - submited the keys to the page: -root
+2023-06-12 18:35:43,913 - INFO - post box checking one : -root
+2023-06-12 18:35:43,926 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:35:43,927 - INFO - post box checking two : -root
+2023-06-12 18:35:44,011 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 18:35:48,575 - INFO - entering the typing_text function : -root
+2023-06-12 18:35:48,576 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 18:35:48,593 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 18:35:48,593 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 18:35:48,653 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 18:35:54,662 - INFO - entering the image_upload function : -root
+2023-06-12 18:35:54,664 - INFO - image selected using random -root
+2023-06-12 18:35:54,665 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 18:35:59,240 - ERROR - error in the image_upload function  -root
+2023-06-12 18:36:19,627 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 18:36:19,628 - INFO - entering the done_buttons function : -root
+2023-06-12 18:36:19,629 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 18:36:19,644 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 18:36:19,645 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 18:36:24,430 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 18:36:24,431 - INFO - entering the post_buttons function : -root
+2023-06-12 18:36:29,018 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 18:36:29,019 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:36:38,258 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 18:49:03,711 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 18:49:05,390 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 18:49:39,438 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 18:49:40,302 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 18:49:48,419 - INFO - entering the login in function -root
+2023-06-12 18:49:49,463 - INFO - entering the website url : -root
+2023-06-12 18:49:50,158 - INFO - entered the login page in linkedin -root
+2023-06-12 18:49:54,477 - INFO - entering the email field : -root
+2023-06-12 18:49:58,913 - INFO - entering the password field : -root
+2023-06-12 18:50:03,315 - INFO - submitting the keys : -root
+2023-06-12 18:50:11,820 - INFO - submited the keys to the page: -root
+2023-06-12 18:50:22,804 - INFO - post box checking one : -root
+2023-06-12 18:50:22,820 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:50:22,821 - INFO - post box checking two : -root
+2023-06-12 18:50:23,018 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 18:50:30,773 - INFO - entering the typing_text function : -root
+2023-06-12 18:50:35,289 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 18:50:35,304 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 18:50:35,306 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 18:50:35,367 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 18:50:41,863 - INFO - entering the image_upload function : -root
+2023-06-12 18:50:41,864 - INFO - image selected using random -root
+2023-06-12 18:50:46,084 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 18:50:50,421 - ERROR - error in the image_upload function  -root
+2023-06-12 18:51:09,838 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 18:51:14,082 - INFO - entering the done_buttons function : -root
+2023-06-12 18:51:19,757 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 18:51:19,770 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 18:51:19,771 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 18:51:24,263 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 18:51:24,264 - INFO - entering the post_buttons function : -root
+2023-06-12 18:51:28,604 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 18:51:28,605 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:51:37,351 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 18:54:48,592 - INFO - entering the login in function -root
+2023-06-12 18:54:49,937 - INFO - entering the website url : -root
+2023-06-12 18:54:50,609 - INFO - entered the login page in linkedin -root
+2023-06-12 18:54:56,456 - INFO - entering the email field : -root
+2023-06-12 18:54:59,460 - INFO - entering the password field : -root
+2023-06-12 18:55:02,461 - INFO - submitting the keys : -root
+2023-06-12 18:55:11,363 - INFO - submited the keys to the page: -root
+2023-06-12 18:55:17,540 - INFO - post box checking one : -root
+2023-06-12 18:55:17,660 - ERROR - post box failed checking one : Message: no such element: Unable to locate element: {"method":"css selector","selector":".artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:55:17,667 - INFO - post box checking two : -root
+2023-06-12 18:55:18,292 - INFO - post box success two : by /html/body/div[5]/div[3]/div/div/div[2]/div/div/main/div[1]/div[2]/div[2]/button -root
+2023-06-12 18:55:21,225 - INFO - entering the typing_text function : -root
+2023-06-12 18:55:21,227 - INFO - entering the text box 1 and typing 1 : -root
+2023-06-12 18:55:21,268 - ERROR - text box typing failed trying next one : Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[1]"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+  -root
+2023-06-12 18:55:21,270 - INFO - entering the text box 1 and typing 2 : -root
+2023-06-12 18:55:21,358 - INFO - text box 2 : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div/div/div/div[1] -root
+2023-06-12 18:55:27,363 - INFO - entering the image_upload function : -root
+2023-06-12 18:55:27,364 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 18:55:30,334 - ERROR - error in the image_upload function  -root
+2023-06-12 18:56:13,470 - INFO - selected image_upload : by /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[1]/div/div/span/button/span[1] -root
+2023-06-12 18:56:13,472 - INFO - entering the done_buttons function : -root
+2023-06-12 18:56:16,832 - INFO - entering the done_buttons class try function trying 1: -root
+2023-06-12 18:56:16,880 - ERROR - error in the done_buttons try function trying 1  -root
+2023-06-12 18:56:16,883 - INFO - entering the done_buttons function  trying 1 : -root
+2023-06-12 18:56:20,372 - INFO - selected done_buttons : by / html / body / div[3] / div / div / div / div[2] / div / div[2] / div / button[2] -root
+2023-06-12 18:56:24,033 - INFO - entering the post_buttons function : -root
+2023-06-12 18:56:27,010 - ERROR - error in the post_buttons try function trying 1  -root
+2023-06-12 18:56:27,012 - INFO - entering the post_buttons 1 function : Message: no such element: Unable to locate element: {"method":"css selector","selector":".share-actions__primary-action artdeco-button artdeco-button--2 artdeco-button--primary ember-view"}
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 18:56:33,282 - INFO - selected post_buttons : by share-box_actions -root
+2023-06-12 19:02:22,185 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:02:24,593 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:02:55,175 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:02:56,800 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:02:56,804 - INFO - entering the login in function -root
+2023-06-12 19:03:00,186 - INFO - entering the website url : -root
+2023-06-12 19:03:01,863 - INFO - entered the login page in instagram -root
+2023-06-12 19:03:05,609 - INFO - entering the email field : -root
+2023-06-12 19:03:09,598 - INFO - entering the password field : -root
+2023-06-12 19:03:13,506 - INFO - submitting the keys : -root
+2023-06-12 19:03:13,635 - INFO - submited the keys to the page: -root
+2023-06-12 19:03:33,068 - ERROR -  login page error : Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 19:05:02,397 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:05:04,071 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:05:04,077 - INFO - entering the login in function -root
+2023-06-12 19:05:07,257 - INFO - entering the website url : -root
+2023-06-12 19:05:08,842 - INFO - entered the login page in instagram -root
+2023-06-12 19:05:11,695 - INFO - entering the email field : -root
+2023-06-12 19:05:14,953 - INFO - entering the password field : -root
+2023-06-12 19:05:18,053 - INFO - submitting the keys : -root
+2023-06-12 19:05:18,144 - INFO - submited the keys to the page: -root
+2023-06-12 19:05:38,314 - ERROR -  login page error : list index out of range -root
+2023-06-12 19:08:13,213 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:08:17,152 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:08:17,156 - INFO - entering the login in function -root
+2023-06-12 19:08:20,424 - INFO - entering the website url : -root
+2023-06-12 19:08:21,961 - INFO - entered the login page in instagram -root
+2023-06-12 19:08:26,130 - INFO - entering the email field : -root
+2023-06-12 19:08:30,596 - INFO - entering the password field : -root
+2023-06-12 19:08:36,884 - INFO - submitting the keys : -root
+2023-06-12 19:08:36,966 - INFO - submited the keys to the page: -root
+2023-06-12 19:08:56,014 - INFO - image selected using random -root
+2023-06-12 19:08:56,016 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 19:09:35,927 - INFO - selected image_upload : by  -root
+2023-06-12 19:14:49,279 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:14:51,223 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:14:59,008 - INFO - entering the login in function -root
+2023-06-12 19:15:03,070 - INFO - entering the website url : -root
+2023-06-12 19:15:05,243 - INFO - entered the login page in instagram -root
+2023-06-12 19:15:08,236 - INFO - entering the email field : -root
+2023-06-12 19:15:11,522 - INFO - entering the password field : -root
+2023-06-12 19:15:17,110 - INFO - submitting the keys : -root
+2023-06-12 19:15:17,258 - INFO - submited the keys to the page: -root
+2023-06-12 19:15:33,312 - ERROR -  login page error : Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011B8893+48451]
+	(No symbol) [0x0114B8A1]
+	(No symbol) [0x01055058]
+	(No symbol) [0x01080467]
+	(No symbol) [0x0108069B]
+	(No symbol) [0x010ADD92]
+	(No symbol) [0x0109A304]
+	(No symbol) [0x010AC482]
+	(No symbol) [0x0109A0B6]
+	(No symbol) [0x01077E08]
+	(No symbol) [0x01078F2D]
+	GetHandleVerifier [0x01418E3A+2540266]
+	GetHandleVerifier [0x01458959+2801161]
+	GetHandleVerifier [0x0145295C+2776588]
+	GetHandleVerifier [0x01242280+612144]
+	(No symbol) [0x01154F6C]
+	(No symbol) [0x011511D8]
+	(No symbol) [0x011512BB]
+	(No symbol) [0x01144857]
+	BaseThreadInitThunk [0x75EC6B89+25]
+	RtlGetFullPathName_UEx [0x77398F9F+1215]
+	RtlGetFullPathName_UEx [0x77398F6D+1165]
+ -root
+2023-06-12 19:16:14,362 - INFO -  entering the start texts block in text_information  -root
+2023-06-12 19:16:16,081 - INFO -  leaving the start texts block in text_information  -root
+2023-06-12 19:16:16,774 - INFO - entering the login in function -root
+2023-06-12 19:16:20,174 - INFO - entering the website url : -root
+2023-06-12 19:16:21,687 - INFO - entered the login page in instagram -root
+2023-06-12 19:16:24,669 - INFO - entering the email field : -root
+2023-06-12 19:16:28,097 - INFO - entering the password field : -root
+2023-06-12 19:16:33,596 - INFO - submitting the keys : -root
+2023-06-12 19:16:33,662 - INFO - submited the keys to the page: -root
+2023-06-12 19:16:47,873 - INFO - entering the image_upload function  and trying 1 : -root
+2023-06-12 19:17:23,396 - INFO - selected image_upload : by  -root
